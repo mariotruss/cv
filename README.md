@@ -2,4 +2,4 @@
 
 ## Work Experience
 * 09/2018 - Today: Product Owner (Customer Data & Business Intelligence)
-** Did this & that
+* * Did this & that
