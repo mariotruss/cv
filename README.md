@@ -19,5 +19,5 @@
 | Time Period | Experience  |
 | ----------- | ----------- |
 | Doing | University of Helsinki, Elements of AI <br> - Content: Bayes Rule, Naive Bayes classification, Machine Learning, Nearest Neighbor classification, Regression, Neural Network, societal implications of AI|
-| Doing | Univeristy of Helsinki, Ethics of AI br> - Content: Accountablitiy, Transparency, Human Rights |
-| Doing | Univeristy of Helsinki, Building AI br> - Content: Optimization, Probability, Naives Bayes classification, Linear regression, Nearest Neighbor method, Overfitting, Logistic Regression, Deep Learning, Neural Network |
+| Doing | Univeristy of Helsinki, Ethics of AI <br> - Content: Accountablitiy, Transparency, Human Rights |
+| Doing | Univeristy of Helsinki, Building AI <br> - Content: Optimization, Probability, Naives Bayes classification, Linear regression, Nearest Neighbor method, Overfitting, Logistic Regression, Deep Learning, Neural Network |
