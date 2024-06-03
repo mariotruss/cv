@@ -11,7 +11,8 @@
 ### University Degrees
 | Time Period | Experience  |
 | ----------- | ----------- |
-| 10/2022 - Expected: 10/2024 | University of Applied Sciences Karlsruhe, MSc Business Informatics <br> - Courses: AI, Data Science, Business Intelligence, Marketing, Leadership, IT-Security, IT-Law (Focus GDPR / Data Privacy, Change Management, Human Ressource Management|
+| 04/2024 - Expected: 04/2026 | Mannheim Business School, MA Management Analytics & AI
+<br> - Courses: AI, Data Science, Business Intelligence, Marketing, Leadership, IT-Security, IT-Law (Focus GDPR / Data Privacy, Change Management, Human Ressource Management|
 | 04/2017 - 09/2021 | University of Applied Sciences RheinMain (Wiesbaden), BSc Media Management (210CP), GPA: 1,6 <br> - Courses: UX- & UI Design, Business Management, Web Technology, Design Thinking, AI/ML, Big Data,  Process Management, IoT, Marketing, E-Business, Market & Media Research, Media & IT-Law <br> - Thesis: AI in Customer Support (Grade: 1,3)
 | TBD   | TBD        |
 
